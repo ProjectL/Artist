@@ -1,6 +1,7 @@
 Artist
 ======
 
+```json
 {
   "Artist": {
       "artistName": "",
@@ -14,3 +15,4 @@ Artist
       "artistYoutube": ""
       }
 }
+```
