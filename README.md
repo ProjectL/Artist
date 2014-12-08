@@ -12,7 +12,8 @@ Artist
       "artistGooglePlay": "",
       "artistItunes": "",
       "artistWebsite": "",
-      "artistYoutube": ""
+      "artistYoutube": "",
+      "artistImageUrl": ""
       }
 }
 ```
